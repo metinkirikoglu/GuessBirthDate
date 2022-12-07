@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GuessBirthDate</string>
+    <string name="question_one">Is your birthday on this card?</string>
+    <string name="question_two">Well, what about this?</string>
+    <string name="question_three">Let me know this one.</string>
+    <string name="question_four">I think i am getting closer. Look at this one.</string>
+    <string name="question_five">And the last one please :)</string>
+    <string name="answer_title">Good for me</string>
+    <string name="answer">Your birthday is</string>
+    <string name="zero_title">Really??</string>
+    <string name="answer_zero_birthday">Are you kidding me? You never said yes to any card.</string>
+    <string name="play_again">Play again</string>
+    <string name="exit_game">Exit game</string>
+    <string name="beginning_title">I will try to guess your birthday. Are you ready?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="day_card_content_description">List of day numbers</string>
+    <string name="play_button_content_description">Play button</string>
+    <string name="switch_on">Night</string>
+    <string name="switch_off">Day</string>
+
+
+</resources>
