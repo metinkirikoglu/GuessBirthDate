@@ -8,11 +8,11 @@ Third card --> 4
 Fourth card --> 8
 Fifth card --> 16
 You ask to your friend is his/her birthday is exists on the card.
-İf the answer 'No' there's nothing to do, but if the answer is 'yes' you add up their codes. 
+İf the answer 'No' there's nothing to do, but if the answer is 'Yes' you add up their codes. 
 For example;
-Your friends birthday is 21
+Suppose your friend's birthday is 21.
 In binary system 21 = 1 + 2^2 +2^4 (1 + 4 + 16)
 So your friend will say yes for the first, the third and the fifth cards. You add up their codes  and this is it. You find the result.
-In addition, There is no need to memorise every single card's code. Every card's first number is also it's code.
-When your friend says yes you should addu up the number on the left-hand corner(the first number on the card).
+In addition, There is no need to memorise every single card's code. The first number of each card is also its code.
+When your friend says 'Yes', you should add up the number on the up left-hand corner(the first number on the card).
 
